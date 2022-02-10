@@ -1,5 +1,5 @@
-alchemy api key: o7JzR-sAztJKdWH5Sk63wPmSVhklHzWg
+alchemy api key: 
 
-etherscan api key: P8ECBZM5RVBWG8H7WPF3HME2MQ42TF49GA
+etherscan api key: 
 
-private key: 73d93254656026ea321c599c9912f7a56cf81f0a91a702b359783a2715ae9829
+private key: 
